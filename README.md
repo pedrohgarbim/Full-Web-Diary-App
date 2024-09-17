@@ -141,3 +141,28 @@ Este modelo define a estrutura da entrada do diário com anotações de validaç
   - `Content`: 📝 Conteúdo da entrada.
   - `Created`: 🕒 Data e hora de criação da entrada.
 ## **👁️ As Páginas da Aplicação**
+## **🖥️ Tela inicial/My Diary**
+![image](https://github.com/user-attachments/assets/e05aa8e1-a3ac-48eb-a0bd-feb5f13871db)
+![image](https://github.com/user-attachments/assets/f5546bb2-692d-4846-bf8c-a15bb4b6fe6b)
+## **🖥️ Criação de uma anotação/Create a new Diary Entry**
+![image](https://github.com/user-attachments/assets/102c9132-d234-43ac-a152-1e9f9233bf9d)
+![image](https://github.com/user-attachments/assets/0f96a9ca-019a-4d88-952e-2a174fb1fb88)
+![image](https://github.com/user-attachments/assets/c3ddbd03-53c5-4595-ad09-2a595e74fabf)
+
+ **❌Mensagens de erro❌**
+## **🖥️ Edição de uma anotação/Edit The Diary Entry**
+![image](https://github.com/user-attachments/assets/e85fc5c5-a8ae-473d-ade0-03adbbebcf28)
+![image](https://github.com/user-attachments/assets/857bfc1c-0f96-4bb3-9047-8f6aaf2a0627)
+## **🖥️ Excluir uma anotação/Delete The Diary Entry**
+![image](https://github.com/user-attachments/assets/b138d336-b43d-41c7-9bad-9097ea62d352)
+![image](https://github.com/user-attachments/assets/f181742b-f86d-4370-928f-96292fefb955)
+
+##  **💾 SQL Server**
+
+![image](https://github.com/user-attachments/assets/f1d518fa-c170-472f-bdf7-16e222e305b9)
+
+
+
+
+
+
