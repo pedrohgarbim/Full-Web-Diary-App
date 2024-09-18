@@ -1,4 +1,5 @@
 # 🖥️ Projeto Web App com Entity Framework e ASP.NET Core
+## Para entender como funciona toda uma estrutura de um projeto em MVC siga para o link explicativo [ASP.NET-Core-MVC-project-structure](https://github.com/pedrohgarbim/ASP.NET-Core-MVC-project-structure)
 
 Este projeto é uma aplicação web completa que explora diversos aspectos do desenvolvimento com ASP.NET Core e Entity Framework. Temas abordados como a conexão com o banco de dados, manipulação de dados, operações CRUD, e a configuração de uma aplicação web seguindo a arquitetura MVC.
 
